@@ -8,7 +8,7 @@ GTK theme based on the appearance of Solaris 11's **Nimbus Light** theme
 
 ### Supported platforms
 - Any GTK-based desktop
-- No shell-scpecitifc theme (yet)
+- See [normal theme](https://github.com/B00merang-Project/Solaris-11) for shell themes
 
 ### Manual installation
 Go to releases, download the latest `.zip` file and extract it to the themes directory i.e. `/home/USERNAME/.themes`
